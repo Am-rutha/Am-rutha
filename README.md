@@ -24,8 +24,4 @@ I like experimenting with ideas, turning questionable concepts into projects, an
 
 ---
 
-
-
----
-
 > `currently learning. occasionally debugging. frequently questioning my code.`
