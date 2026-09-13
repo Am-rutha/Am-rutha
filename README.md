@@ -1,6 +1,8 @@
 # Am-rutha
 # AMRUTHA
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,100:6D28D9&height=220&section=header&text=AMRUTHA&fontSize=55&fontColor=F5F3F7&fontAlignY=40&desc=CSE%20%7C%20AI%20%26%20ML&descAlignY=60&descSize=18" width="100%"/>
+</p>
 ### `CSE • AI/ML • still figuring things out`
 
 > building things. breaking things. learning anyway.
